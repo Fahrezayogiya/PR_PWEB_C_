@@ -1,2 +1,2 @@
-# PR_PWEB_C_
-Kumpulan tugas praktikum PWEB C
+# web-project-c
+Repository for web project c
